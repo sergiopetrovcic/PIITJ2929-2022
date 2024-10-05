@@ -6,7 +6,7 @@ Research project of IFSC Itajaí Campus executed between February 2022 and Octob
 
 Volunteer student: Kauan de Lima dos Santos.
 
-Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue here.
+Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues).
 
 # How to play
 - How to operate the terminal tractor:
@@ -48,7 +48,7 @@ Help us improve this simulator. If you have any bugs to report or new features t
     - Reach stacker: control through the arrow keys, WASD keys, and mouse interaction with some buttons in the cabin;
     - Ship-to-shore: control through the arrow keys, WASD keys, and mouse interaction with some buttons in the cabin;
     - Ship: control through the arrow keys, WASD keys, and mouse interaction with some buttons in the cabin.
-  - Correção de bugs:
-    - Bug 1.
-  - Novas funcionalidades:
-    - Função 1.
+  - Bug fixes:
+    - .
+  - New features:
+    - .

@@ -1,6 +1,6 @@
 # PIITJ2929-2022 - Simulador de Complexo Portuário
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 
 Projeto de pesquisa do IFSC Câmpus Itajaí executado entre fevereiro de 2022 e outubro de 2024.
 

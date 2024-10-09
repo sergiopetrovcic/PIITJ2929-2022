@@ -6,7 +6,8 @@ Projeto de pesquisa do IFSC Câmpus Itajaí executado entre fevereiro de 2022 e 
 
 Aluno voluntário: Kauan de Lima dos Santos.
 
-Ajude-nos a melhorar este simulador. Se você tem algum bug para informar ou nova função para sugerir, abra um chamado [aqui](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues).
+Ajude-nos a melhorar este simulador. Se você tem algum bug para informar ou nova função para sugerir, abra um chamado [aqui](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). Se você deseja ver alguns vídeos e imagens, clique [aqui](https://sites.google.com/u/0/d/1xY986XZepaWLXJO_sSntz17MpoQNdc-F/p/1v2X29cZvxRg6vMA3iATYqsF980M8m2aL/preview).
+
 
 ## Como jogar
 

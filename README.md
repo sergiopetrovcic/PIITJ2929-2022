@@ -6,7 +6,7 @@ Research project of IFSC Itajaí Campus executed between February 2022 and Octob
 
 Volunteer student: Kauan de Lima dos Santos.
 
-Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues).
+Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). If you want to see some videos and images, please click [here](https://sites.google.com/u/0/d/1xY986XZepaWLXJO_sSntz17MpoQNdc-F/p/1v2X29cZvxRg6vMA3iATYqsF980M8m2aL/preview).
 
 # How to play
 - How to operate the terminal tractor:

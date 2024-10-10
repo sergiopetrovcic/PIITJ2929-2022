@@ -8,9 +8,11 @@ Volunteer student: Kauan de Lima dos Santos.
 
 Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). If you want to see some videos and images, please click [here](https://sites.google.com/view/xrai/projetos-encerrados/piitj2929-2022-complexo-portu%C3%A1rio).
 
-[![Download v0.2.0 win-64](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/DenverCoder1/readme-download-button-action/archive/1.0.2.zip)
+## Download
 
-# How to play
+10/14/2024 - Version 0.2.0 - Windows 64 bits (comming soon!).
+
+## How to play
 - How to operate the terminal tractor:
   - Move forward: W or ↑.
   - Move backward: S or ↓.
@@ -38,13 +40,9 @@ Help us improve this simulator. If you have any bugs to report or new features t
 - Keys:
   - Tab: switches between predefined positions in the scene;
 
-# Download
+## Version History
 
-10/14/2024 - Version 0.1 - Windows.
-
-# Version History
-
-- Version 0.1:
+- Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD).
   - Details: this version allows the user to freely walk around the scene and operate the following equipment:
     - Terminal tractor: control through the arrow keys, WASD keys, and mouse interaction with some buttons in the cabin;
     - Reach stacker: control through the arrow keys, WASD keys, and mouse interaction with some buttons in the cabin;

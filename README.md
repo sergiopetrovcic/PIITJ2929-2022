@@ -42,7 +42,7 @@ Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD) - Platform: Windows 64 b
 
 ## Version History
 
-- Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD).
+- Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD) - Platform: Windows 64 bits.
   - Details: this version allows the user to freely walk around the scene and operate the following equipment:
     - Terminal tractor: control through the arrow keys, WASD keys, and mouse interaction with some buttons in the cabin;
     - Reach stacker: control through the arrow keys, WASD keys, and mouse interaction with some buttons in the cabin;

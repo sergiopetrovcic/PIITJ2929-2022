@@ -10,7 +10,7 @@ Help us improve this simulator. If you have any bugs to report or new features t
 
 ## Download
 
-10/14/2024 - Version 0.2.0 - Windows 64 bits (comming soon!).
+Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD) - Platform: Windows 64 bits (comming soon!).
 
 ## How to play
 - How to operate the terminal tractor:

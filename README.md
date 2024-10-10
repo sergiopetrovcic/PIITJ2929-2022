@@ -6,7 +6,7 @@ Research project of IFSC Itajaí Campus executed between February 2022 and Octob
 
 Volunteer student: Kauan de Lima dos Santos.
 
-Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). If you want to see some videos and images, please click [here](https://sites.google.com/u/0/d/1xY986XZepaWLXJO_sSntz17MpoQNdc-F/p/1v2X29cZvxRg6vMA3iATYqsF980M8m2aL/preview).
+Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). If you want to see some videos and images, please click [here](https://sites.google.com/view/xrai/projetos-encerrados/piitj2929-2022-complexo-portu%C3%A1rio).
 
 [![Download v0.2.0 win-64](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/DenverCoder1/readme-download-button-action/archive/1.0.2.zip)
 

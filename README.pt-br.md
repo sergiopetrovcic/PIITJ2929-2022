@@ -8,6 +8,9 @@ Aluno voluntário: Kauan de Lima dos Santos.
 
 Ajude-nos a melhorar este simulador. Se você tem algum bug para informar ou nova função para sugerir, abra um chamado [aqui](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). Se você deseja ver alguns vídeos e imagens, clique [aqui](https://sites.google.com/view/xrai/projetos-encerrados/piitj2929-2022-complexo-portu%C3%A1rio).
 
+## Download
+
+Versão: 0.2.0 - Data de lançamento: 2024/10/14 (AAAA/MM/DD) - Plataforma: Windows 64 bits (em breve!).
 
 ## Como jogar
 
@@ -38,13 +41,9 @@ Ajude-nos a melhorar este simulador. Se você tem algum bug para informar ou nov
 - Teclas
   - Tab: alterna entre posições pré-definidas do cenário;
 
-## Download
-
-- 14/10/2024 - [Versão 0.1](www.petrovcic.com.br) - Windows.
-
 ## Histórico de versões
 
-- Versão 0.1:
+- Versão: 0.2.0 - Data de lançamento: 2024/10/14 (AAAA/MM/DD) - Plataforma: Windows 64 bits.
   - Detalhamento: esta versão permite ao usuário andar livremente pelo cenário e operar os seguintes equipamentos:
     -  _Terminal tractor_: controle através das setas do teclado, teclas WASD e interação do mouse sobre alguns botões da cabine;
     -  _Reach stacker_: controle através das setas do teclado, teclas WASD e interação do mouse sobre alguns botões da cabine;

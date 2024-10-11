@@ -10,7 +10,7 @@ Ajude-nos a melhorar este simulador. Se você tem algum bug para informar ou nov
 
 ## Download
 
-Versão: 0.2.0 - Data de lançamento: 2024/10/14 (AAAA/MM/DD) - Plataforma: Windows 64 bits (em breve!).
+Versão: 0.2.0 - Data de lançamento: 2024/10/14 (AAAA/MM/DD) - Plataforma: Windows 64 bits ([link](https://drive.google.com/file/d/1Ko5gcP6XtmanOj_ynTGi9HG2qtqDzVPd/view?usp=sharing)).
 
 ## Como jogar
 

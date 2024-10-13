@@ -10,7 +10,7 @@ Help us improve this simulator. If you have any bugs to report or new features t
 
 ## Download
 
-Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD) - Platform: Windows 64 bits ([link](https://drive.google.com/file/d/1Ko5gcP6XtmanOj_ynTGi9HG2qtqDzVPd/view?usp=sharing)).
+Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD) - Platform: Windows 64 bits ([link]([https://drive.google.com/file/d/1Ko5gcP6XtmanOj_ynTGi9HG2qtqDzVPd/view?usp=sharing](https://drive.google.com/uc?export=download&id=1zf1tM9Z1knnah1MI3kb8kCU9eQdOJ-yF))).
 
 ## How to play
 - How to operate the terminal tractor:

@@ -6,11 +6,11 @@ Research project of IFSC Itajaí Campus executed between February 2022 and Octob
 
 Volunteer student: Kauan de Lima dos Santos.
 
-Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). If you want to see some videos and images, please click [here](https://sites.google.com/view/xrai/projetos-encerrados/piitj2929-2022-complexo-portu%C3%A1rio).
+Help us improve this simulator. If you have any bugs to report or new features to suggest, open an issue [here](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). If you want to see some videos and images, please click [here](https://sites.google.com/view/xrai/projetos-encerrados/PIITJ2929-2022).
 
 ## Download
 
-Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD) - Platform: Windows 64 bits ([link]([https://drive.google.com/file/d/1Ko5gcP6XtmanOj_ynTGi9HG2qtqDzVPd/view?usp=sharing](https://drive.google.com/uc?export=download&id=1zf1tM9Z1knnah1MI3kb8kCU9eQdOJ-yF))).
+Version: 0.2.0 - Realease date: 2024/10/14 (YYYY/MM/DD) - Platform: Windows 64 bits ([link](https://drive.google.com/uc?export=download&id=1zf1tM9Z1knnah1MI3kb8kCU9eQdOJ-yF)).
 
 ## How to play
 - How to operate the terminal tractor:

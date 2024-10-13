@@ -6,11 +6,11 @@ Projeto de pesquisa do IFSC Câmpus Itajaí executado entre fevereiro de 2022 e 
 
 Aluno voluntário: Kauan de Lima dos Santos.
 
-Ajude-nos a melhorar este simulador. Se você tem algum bug para informar ou nova função para sugerir, abra um chamado [aqui](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). Se você deseja ver alguns vídeos e imagens, clique [aqui](https://sites.google.com/view/xrai/projetos-encerrados/piitj2929-2022-complexo-portu%C3%A1rio).
+Ajude-nos a melhorar este simulador. Se você tem algum bug para informar ou nova função para sugerir, abra um chamado [aqui](https://github.com/sergiopetrovcic/PIITJ2929-2022/issues). Se você deseja ver alguns vídeos e imagens, clique [aqui](https://sites.google.com/view/xrai/projetos-encerrados/PIITJ2929-2022).
 
 ## Download
 
-Versão: 0.2.0 - Data de lançamento: 2024/10/14 (AAAA/MM/DD) - Plataforma: Windows 64 bits ([link]([https://drive.google.com/file/d/1Ko5gcP6XtmanOj_ynTGi9HG2qtqDzVPd/view?usp=sharing](https://drive.google.com/uc?export=download&id=1zf1tM9Z1knnah1MI3kb8kCU9eQdOJ-yF))).
+Versão: 0.2.0 - Data de lançamento: 2024/10/14 (AAAA/MM/DD) - Plataforma: Windows 64 bits ([link](https://drive.google.com/uc?export=download&id=1zf1tM9Z1knnah1MI3kb8kCU9eQdOJ-yF)).
 
 ## Como jogar
 
